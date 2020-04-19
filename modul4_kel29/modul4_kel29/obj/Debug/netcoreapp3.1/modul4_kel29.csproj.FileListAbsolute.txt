@@ -1,0 +1,13 @@
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\bin\Debug\netcoreapp3.1\modul4_kel29.exe
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\bin\Debug\netcoreapp3.1\modul4_kel29.deps.json
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\bin\Debug\netcoreapp3.1\modul4_kel29.runtimeconfig.json
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\bin\Debug\netcoreapp3.1\modul4_kel29.runtimeconfig.dev.json
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\bin\Debug\netcoreapp3.1\modul4_kel29.dll
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\bin\Debug\netcoreapp3.1\modul4_kel29.pdb
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\obj\Debug\netcoreapp3.1\modul4_kel29.csprojAssemblyReference.cache
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\obj\Debug\netcoreapp3.1\modul4_kel29.csproj.CoreCompileInputs.cache
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\obj\Debug\netcoreapp3.1\modul4_kel29.AssemblyInfoInputs.cache
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\obj\Debug\netcoreapp3.1\modul4_kel29.AssemblyInfo.cs
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\obj\Debug\netcoreapp3.1\modul4_kel29.dll
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\obj\Debug\netcoreapp3.1\modul4_kel29.pdb
+D:\Afifa\Coolyeah\Semester 2\Laprak\Dikeipy\MODUL 4\Modul4_Kel29\modul4_kel29\modul4_kel29\obj\Debug\netcoreapp3.1\modul4_kel29.genruntimeconfig.cache
